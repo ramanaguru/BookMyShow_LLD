@@ -6,5 +6,5 @@ public enum Feature {
     HDR,
     DOLBY_ATOMS,
 
-    FOUR_K
+    _4K
 }
